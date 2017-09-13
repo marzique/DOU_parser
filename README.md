@@ -2,6 +2,7 @@
 Parser for jobs.dou.ua
 
 TODO:
+
 -add either graphical or web interface 
 
 -implement either e-mail or background mode notification if new offer detected
